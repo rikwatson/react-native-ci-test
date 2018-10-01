@@ -1,0 +1,3 @@
+rootProject.name = 'ci_test'
+
+include ':app'
